@@ -1,0 +1,1 @@
+# Project Selenium    [![Build status](https://ci.appveyor.com/api/projects/status/rll572f3j7a062ai?svg=true)](https://ci.appveyor.com/project/Anna-Gorina/selenium)
